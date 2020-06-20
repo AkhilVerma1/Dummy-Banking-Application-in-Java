@@ -1,0 +1,16 @@
+# Dummy-Banking-Application-in-Java
+/*Write a program to create a banking application in which display the menu (Create Account/Deposit/Withdraw/Balance Enquiry).
+        If the user wants to create the new account then ask the user to enter account holder name, age,
+        initial deposit and password, then create an account object with account number automatically assigned
+        to the user and display the details when the account is created. Provide the methods to deposit,
+        withdraw and view balance. Store all the account objects in an array.
+        If the user wants to deposit, withdraw or view balance then ask the user to enter the account number
+        and password. Check the credentials. Fetch the details of that account number from the stored account
+        objects and display the account holder name corresponding to the entered account number. Ask the user
+        to confirm the account and then proceed according to the user’s choice.
+        In case deposit, ask the user to enter the amount to be deposited and update the balance accordingly
+        and display the updated balance.
+        In case of withdrawal, ask the user to enter the amount to be withdrawn. Update the balance if the
+        user is having sufficient balance. Otherwise display “Insufficient Balance”.
+        In case of Balance Enquiry, Display the balance. */
+© 2020 GitHub, Inc.
